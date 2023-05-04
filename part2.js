@@ -48,4 +48,6 @@ const redButton = {
     color: 'red'
 }
 
+console.log(button)
+
 console.log(redButton)
